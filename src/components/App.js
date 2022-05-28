@@ -4,7 +4,8 @@ import '../styles/App.css';
 //! App is the name of component as per the test
 const App = () => {
   return (
-    <App/>
+   <p>
+    </p>
   );
 };
 
